@@ -34,12 +34,11 @@ DA5401-assignment-4-Charukhesh/
 - matplotlib
 - seaborn
 - scikit-learn
-- imbalanced-learn
 
 Install the required libraries using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## How to Run This Project
